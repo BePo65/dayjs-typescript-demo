@@ -17,3 +17,17 @@ Mocha is used as a test runner. Start tests with:
 ```bash
 npm run test
 ```
+
+## Configuration
+
+**tsconfig.json**
+```json
+    {
+      "compilerOptions": {
+        "target": "ES5",
+        "module": "commonjs",
+        "allowSyntheticDefaultImports": true,
+        "esModuleInterop": true
+      }
+    }
+```
