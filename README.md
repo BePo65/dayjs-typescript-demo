@@ -1,6 +1,6 @@
 # Dayjs with TypeScript sample
 
-A simple Node.js project using Dayjs with TypeScript.
+A simple Node.js project using Dayjs with TypeScript. Only a few plugins are used in the demo, but all plugins are used in the tests.
 
 ## Cli
 
