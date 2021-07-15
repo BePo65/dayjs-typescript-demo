@@ -26,6 +26,6 @@ describe('dayjs with utc', () => {
 	it('should format date as utc', () => {
     const result = dayjs.utc('2018-10-21', 'YYYY-MM-DD').format();
 
-    expect(result, 'result should be "2018-10-21T00:00:00Z"').to.equal('2018-10-21T00:00:00Z');
+    expect(result, 'result should be "2018-10-21T00:00:00+00:00"').to.equal('2018-10-21T00:00:00+00:00');
 	});
 });
