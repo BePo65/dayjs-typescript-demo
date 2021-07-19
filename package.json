@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.21",
     "@types/mocha": "^8.2.3",
-    "@types/node": "^16.3.2",
+    "@types/node": "^16.3.3",
     "chai": "^4.3.4",
     "clear-folder": "^3.0.0",
     "cross-env": "^7.0.3",
