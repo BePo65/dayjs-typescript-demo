@@ -22,7 +22,7 @@
     "upgrade": "npx npm-check -u"
   },
   "devDependencies": {
-    "@types/chai": "^4.2.21",
+    "@types/chai": "^4.2.22",
     "@types/mocha": "^9.0.0",
     "@types/node": "^16.7.10",
     "chai": "^4.3.4",
