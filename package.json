@@ -17,6 +17,7 @@
   "scripts": {
     "build": "npm run clean && tsc --project tsconfig.app.json",
     "start": "npm run build && node dist/index.js",
+    "start:issue1891": "npm run build && node dist/issue1891.js",
     "test": "cross-env TS_NODE_PROJECT=\"tsconfig.spec.json\" mocha",
     "clean": "cf dist",
     "upgrade": "npx npm-check -u"
